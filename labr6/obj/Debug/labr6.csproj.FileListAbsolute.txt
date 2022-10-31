@@ -1,0 +1,10 @@
+C:\Razr_lab_Csharp\lr6\labr6\labr6\bin\Debug\labr6.exe.config
+C:\Razr_lab_Csharp\lr6\labr6\labr6\bin\Debug\labr6.exe
+C:\Razr_lab_Csharp\lr6\labr6\labr6\bin\Debug\labr6.pdb
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.csprojAssemblyReference.cache
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.Form1.resources
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.Properties.Resources.resources
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.csproj.GenerateResource.cache
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.csproj.CoreCompileInputs.cache
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.exe
+C:\Razr_lab_Csharp\lr6\labr6\labr6\obj\Debug\labr6.pdb
